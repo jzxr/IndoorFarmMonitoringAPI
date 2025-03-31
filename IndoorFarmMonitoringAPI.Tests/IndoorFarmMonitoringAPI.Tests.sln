@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndoorFarmMonitoringAPI", "IndoorFarmMonitoringAPI.csproj", "{6CB80132-774A-4A3F-BDC1-412669D7F80E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndoorFarmMonitoringAPI.Tests", "IndoorFarmMonitoringAPI.Tests.csproj", "{FD4D3658-1866-49DC-B42F-CF6CACDEA06B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6CB80132-774A-4A3F-BDC1-412669D7F80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6CB80132-774A-4A3F-BDC1-412669D7F80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6CB80132-774A-4A3F-BDC1-412669D7F80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6CB80132-774A-4A3F-BDC1-412669D7F80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4D3658-1866-49DC-B42F-CF6CACDEA06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4D3658-1866-49DC-B42F-CF6CACDEA06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4D3658-1866-49DC-B42F-CF6CACDEA06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4D3658-1866-49DC-B42F-CF6CACDEA06B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8567DC37-0FBF-4474-BB87-B29ECCD643EA}
+		SolutionGuid = {4A432AE4-9FC1-4BA9-8FB8-5450138CF94F}
 	EndGlobalSection
 EndGlobal
